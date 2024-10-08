@@ -4,11 +4,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Weather Application</title>
+    <title>Weather App</title>
 
     <!-- Favicon or Logo -->
     <link rel="icon" href="{{ asset('images/logo.png') }}" type="image/png">
-    <!-- Ensure your logo is placed in the public/images/ directory -->
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">

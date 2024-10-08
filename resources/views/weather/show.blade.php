@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Weather Results</title>
+    <title>Weather App</title>
+    <link rel="icon" href="{{ asset('images/logo.png') }}" type="image/png">
+
     <style>
         body {
             font-family: Arial, sans-serif;
